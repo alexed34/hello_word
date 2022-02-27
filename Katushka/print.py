@@ -1,0 +1,13 @@
+# print('как тебя зовут')
+# name=input('Введи свое имя ')
+# print('привет,', name)
+worldsep=input()
+world1=input()
+world2=input()
+world3=input()
+print(world1, world2, world3,  sep=worldsep)
+# print(world3, world2,)
+# print(world3, world1,)
+
+# print(world2)
+# print(world1)

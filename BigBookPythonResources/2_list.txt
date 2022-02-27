@@ -1,0 +1,88 @@
+shiningcarpet.py - 16 -
+gullible.py - 17 -
+hexgrid.py - 20 -
+multiplicationtable.py - 25 + таблица умножения
+calendar_2021_9.txt - 28
+texttospeechtalker.py - 35 + текст в речь
+sinemessage.py - 36 + текст волной
+milliondicestats.py - 38 -
+caesarhacker.py - 39
+collatz.py - 39 -
+guess.py - 40 + угадай число
+numeralsystems.py - 40 + числа в 10, 16 рядный и двоичный код
+ninetyninebottles.py - 41
+fastdraw.py - 42
+factorfinder.py - 46
+deepcave.py - 48
+sudokupuzzles.txt - 49
+digitalclock.py - 50
+digitalstream.py - 51
+rot13cipher.py - 51
+bitmapmessage.py - 52
+spongecase.py - 53
+rainbow.py - 54
+countdown.py - 56
+leetspeak.py - 56
+primenumbers.py - 56
+diamonds.py - 57
+rockpaperscissorsalwayswin.py - 60
+magicfortuneball.py - 63
+progressbar.py - 64
+dna.py - 67
+soundmimic.py - 67
+fibonacci.py - 79
+piglatin.py - 79
+snailrace.py - 82
+rockpaperscissors.py - 85
+ninetyninebottles2.py - 87
+caesarcipher.py - 88
+diceroller.py - 89
+periodictable.py - 89
+conwaysgameoflife.py - 92
+chohan.py - 95
+sevseg.py - 98
+tictactoe.py - 99
+birthdayparadox.py - 108
+calendarmaker.py - 108
+vigenerecipher.py - 110
+towerofhanoi.py - 114
+forestfiresim.py - 115
+periodictable.csv - 117
+powerballlottery.py - 123
+simplesubcipher.py - 128
+waterbucket.py - 129
+threecardmonte.py - 130
+clickbait.py - 131
+slidingtilepuzzle.py - 138
+soundS.wav - 140
+bouncingdvd.py - 148
+soroban.py - 149
+mazerunner2d.py - 160
+carrotinabox.py - 164
+langtonsant.py - 166
+hangman.py - 168
+fourinarow.py - 176
+etchingdrawer.py - 177
+hacking.py - 181
+mondrian.py - 184
+hourglass.py - 191
+dicemath.py - 192
+montyhall.py - 200
+ducklings.py - 210
+mancala.py - 215
+rotatingcube.py - 215
+flooder.py - 221
+trickquestions.py - 223
+blackjack.py - 241
+hungryrobots.py - 242
+luckystars.py - 243
+sudoku.py - 245
+twentyfortyeight.py - 249
+royalgameofur.py - 256
+jaccuse.py - 295
+fishtank.py - 296
+soundD.wav - 310
+mazerunner3d.py - 321
+soundF.wav - 325
+sevenletterwords.txt - 444
+soundA.wav - 526
